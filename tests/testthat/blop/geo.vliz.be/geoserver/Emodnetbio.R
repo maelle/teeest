@@ -1,0 +1,17 @@
+structure(list(url = "https://geo.vliz.be/geoserver/Emodnetbio/", 
+    status_code = 404L, headers = structure(list(server = "Apache-Coyote/1.1", 
+        `content-type` = "text/html;charset=utf-8", `content-language` = "en", 
+        `content-length` = "1010", date = "Tue, 26 Apr 2022 17:47:44 GMT"), class = c("insensitive", 
+    "list")), all_headers = list(list(status = 404L, version = "HTTP/1.1", 
+        headers = structure(list(server = "Apache-Coyote/1.1", 
+            `content-type` = "text/html;charset=utf-8", `content-language` = "en", 
+            `content-length` = "1010", date = "Tue, 26 Apr 2022 17:47:44 GMT"), class = c("insensitive", 
+        "list")))), cookies = structure(list(domain = logical(0), 
+        flag = logical(0), path = logical(0), secure = logical(0), 
+        expiration = structure(numeric(0), class = c("POSIXct", 
+        "POSIXt")), name = logical(0), value = logical(0)), row.names = integer(0), class = "data.frame"), 
+    content = charToRaw("<!DOCTYPE html><html><head><title>Apache Tomcat/8.0.32 (Ubuntu) - Error report</title><style type=\"text/css\">H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}</style> </head><body><h1>HTTP Status 404 - </h1><div class=\"line\"></div><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><hr class=\"line\"><h3>Apache Tomcat/8.0.32 (Ubuntu)</h3></body></html>"), 
+    date = structure(1650995264, class = c("POSIXct", "POSIXt"
+    ), tzone = "GMT"), times = c(redirect = 0, namelookup = 0.017256, 
+    connect = 0.024978, pretransfer = 0.072017, starttransfer = 0.098653, 
+    total = 0.098683)), class = "response")
